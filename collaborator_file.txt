@@ -1,1 +1,2 @@
 "New content from collaborator" 
+"New content added from the collaborator." 
