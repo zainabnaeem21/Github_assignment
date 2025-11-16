@@ -1,1 +1,2 @@
 "These are my notes for Git and GitHub assignment." 
+"This line was added from the cloned repository." 
